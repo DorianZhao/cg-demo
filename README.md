@@ -1,1 +1,1 @@
-# cg-demo
+# Overwatch Card Game Demo
